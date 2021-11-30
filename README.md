@@ -32,7 +32,7 @@
 - MicroBricks.
   
 --My Real Estate Projects--
-  A.) Our Farmsite inovations:
+  - A.) Our Farmsite inovations:
   - Gour gourmet mycology.
   - Animal breeding.
   - Hub for our Manufacturing.
@@ -74,6 +74,7 @@ Manufacturing:
   - Home wiring.
   - Tiling and construction.
   - (Learning) Plumbing.
+  - Farming.
   
 --My Later Interests and ambitions--
 - Drones and robotics.
