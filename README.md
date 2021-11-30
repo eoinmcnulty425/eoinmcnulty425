@@ -25,8 +25,7 @@
 - NFT Exchanges.
 
 <My Manufacturing Projects>
-- Thermoelectric Generators.
-- Hydroelectric Generators.
+- Manufacturing Hydroelectric and Thermoelectric Generators.
 
 <My Upcoming Manufacturing Projects>
 - Boat manufacturing. 
